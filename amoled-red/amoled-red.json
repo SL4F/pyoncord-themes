@@ -70,7 +70,7 @@
             "#b50000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#b50000"
+            "#b50000B2"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#b50000"
@@ -97,7 +97,7 @@
             "#b50000"
         ],
         "TEXT_DANGER": [
-            "#6b68a3"
+            "#b50000"
         ],
         "KEYBOARD": [
             "#161621"
@@ -112,10 +112,10 @@
             "#e0deff"
         ],
         "CHAT_BACKGROUND": [
-            "#161621"
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#2d2c48"
+            "#252525"
         ]
     },
     "rawColors": {
