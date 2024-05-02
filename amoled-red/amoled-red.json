@@ -45,10 +45,10 @@
             "#b50000"
         ],
         "BACKGROUND_ACCENT": [
-            "#d50000"
+            "#b50000"
         ],
         "BACKGROUND_FLOATING": [
-            "#ff0000"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -64,7 +64,7 @@
             "#b50000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#b50000"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#b50000"
