@@ -12,13 +12,13 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
+            "#909090"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#f1ffff"
+            "#909090"
         ],
         "INTERACTIVE_NORMAL": [
             "#b50000"
@@ -82,16 +82,16 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#6b68a3"
+            "#ff0000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#6b68a3"
+            "#ff00000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#5e5b8e"
+            "#ffffff"
         ],
         "TEXT_LINK": [
             "#b50000"
