@@ -21,10 +21,10 @@
             "#f1ffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#808080"
+            "#b50000"
         ],
         "INTERACTIVE_HOVER": [
-            "#b50000"
+            "#606060"
         ],
         "INTERACTIVE_ACTIVE": [
             "#b50000"
