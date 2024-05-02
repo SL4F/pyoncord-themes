@@ -24,13 +24,13 @@
             "#b50000"
         ],
         "INTERACTIVE_HOVER": [
-            "#606060"
+            "#505050"
         ],
         "INTERACTIVE_ACTIVE": [
             "#b50000"
         ],
         "INTERACTIVE_MUTED": [
-            "#606060"
+            "#505050"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -67,7 +67,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#b50000"
+            "#505050"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#b50000B2"
@@ -115,7 +115,7 @@
             "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#202020"
+            "#101010"
         ]
     },
     "rawColors": {
