@@ -1,17 +1,8 @@
-# Pyoncord-Theme
+### [Pyoncord-Themes](https://github.com/SL4F/pyoncord-themes)
+###### Collection of my Vencord plugins and themes!
+<p align="left"> 
+  <a href="https://github.com/SL4F/pyoncord-themes" target="_blank"><img src="https://" alt="Pyoncord" width="350" height="175"/></a>
+</p>
 
-Fully-fledged theme made for Pyoncord (themes+ support, custom fonts soon)! 
-- Supports the most recent versions of discord! Also works with some older versions and the youbar (which was removed in 226.6)
-- This is my first new ui theme, but thanks to the help of some amazing people it became even better! (Thank you).
-
-
-> Credit goes to: <br>
-> Rairof, for helping me make my theme what it is (finding a ton of keys missing in my theme and much more). <br>
-> Moodle, for the current background.
-
-
-# Preview
-![blossomed](https://github.com/rennpy/pyontheme/assets/158360149/912edfae-c7aa-41b2-81c4-6359261f3a2a)
-
-
-
+###### [GitHub](https://github.com/sl4f/pyoncord-themes) - [Sponsor](https://github.com/sponsors/SL4F)
+___
