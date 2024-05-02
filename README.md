@@ -8,8 +8,17 @@
 ___
 ## AMOLED Red [ [Install](https://github.com/SL4F/pyoncord-themes) ]
 ### Description
+<p align="left"> 
+  <a href="https://github.com/SL4F/pyoncord-themes" target="_blank"><img src="https://" alt="Pyoncord Theme Example" width="350" height="175"/></a>
+</p>
+
+___
 ## AMOLED Purple [ [Install](https://github.com/SL4F/pyoncord-themes) ]
 ### Description
+<p align="left"> 
+  <a href="https://github.com/SL4F/pyoncord-themes" target="_blank"><img src="https://" alt="Pyoncord Theme Example" width="350" height="175"/></a>
+</p>
+
 ___
 ## Credits
 #### [Link](https://heartless.uno) by [Creator](https://heartless.uno)
