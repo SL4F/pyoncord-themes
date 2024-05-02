@@ -3,7 +3,7 @@
     "description": "AMOLED theme with red Accents.",
     "authors": [
         {
-            "name": "Jay",
+            "name": "SL4F",
             "id": "710329141903360011"
         }
     ],
@@ -33,10 +33,10 @@
             "#bbbad6"
         ],
         "BACKGROUND_PRIMARY": [
-            "#212034"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2b2a3b"
+            "#ff0000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#26253b"
