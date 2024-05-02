@@ -36,7 +36,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#303030"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -48,7 +48,7 @@
             "#d50000"
         ],
         "BACKGROUND_FLOATING": [
-            "#2d2c48"
+            "#ff0000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -57,7 +57,7 @@
             "#252525"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#2d2c48"
+            "#ffffff"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -73,7 +73,7 @@
             "#b50000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#b50000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
