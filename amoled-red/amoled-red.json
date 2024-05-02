@@ -148,7 +148,7 @@
  },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
+        "url": ""
     },
   "plus": {
     "version": "0",
