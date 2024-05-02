@@ -88,7 +88,7 @@
             "#6b68a3"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#26273b"
+            "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
             "#5e5b8e"
@@ -106,7 +106,7 @@
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#26273b"
+            "#ff0000"
         ],
         "CHANNEL_ICON": [
             "#e0deff"
@@ -115,7 +115,7 @@
             "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#252525"
+            "#202020"
         ]
     },
     "rawColors": {
