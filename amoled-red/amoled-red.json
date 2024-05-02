@@ -76,7 +76,7 @@
             "#b50000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#ffff11"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -100,7 +100,7 @@
             "#757575"
         ],
         "KEYBOARD": [
-            "#161621"
+            "#11ffff"
         ],
         "BG_BACKDROP": [
             "#000000B2"
@@ -109,7 +109,7 @@
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#ff0000"
+            "#b50000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
