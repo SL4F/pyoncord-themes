@@ -85,13 +85,13 @@
             "#ff0000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ff00000"
+            "#ff0000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#b50000"
         ],
         "TEXT_LINK": [
             "#b50000"
@@ -106,7 +106,7 @@
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#ff0000"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#e0deff"
