@@ -70,7 +70,7 @@
             "#505050"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#b50000B2"
+            "#b2b50000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#b50000"
@@ -103,7 +103,7 @@
             "#11ffff"
         ],
         "BG_BACKDROP": [
-            "#000000B2"
+            "#b2000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
