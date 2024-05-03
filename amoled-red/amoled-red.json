@@ -42,7 +42,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#101010"
+            "#b5000033"
         ],
         "BACKGROUND_ACCENT": [
             "#b50000"
@@ -82,10 +82,10 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#ff0000"
+            "#ff00ff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ff0000"
+            "#ff00ff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ff0000"
@@ -133,7 +133,7 @@
         "BLACK_500": "#B2000000",
         "BRAND_260": "#ffff00",
         "BRAND_360": "#a5a0f1",
-        "BRAND_500": "#b50000",
+        "BRAND_500": "#b500b5",
         "BRAND_560": "#808080",
         "YELLOW_300": "#ef5350",
         "GREEN_600": "#ef9a9a",
