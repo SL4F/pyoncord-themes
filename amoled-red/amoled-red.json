@@ -70,7 +70,7 @@
             "#505050"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#b2b50000"
+            "#B2b50000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#b50000"
@@ -103,7 +103,7 @@
             "#11ffff"
         ],
         "BG_BACKDROP": [
-            "#b2000000"
+            "#B2000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
@@ -130,15 +130,15 @@
         "PRIMARY_660": "#303030",
         "PRIMARY_700": "#303030",
         "PRIMARY_800": "#303030",
-        "BLACK_500": "#000000B2",
-        "BRAND_260": "#ff0000",
+        "BLACK_500": "#B2000000",
+        "BRAND_260": "#ffff00",
         "BRAND_360": "#a5a0f1",
         "BRAND_500": "#b50000",
         "BRAND_560": "#808080",
         "YELLOW_300": "#ef5350",
         "GREEN_600": "#ef9a9a",
         "RED_400": "#b71c1c",
-        "WHITE_500": "#ef9a9a",
+        "WHITE_500": "#ffffff",
         "GREEN_360": "#605d91",
         "PLUM_20": "#050505",
         "PLUM_17": "#101010",
