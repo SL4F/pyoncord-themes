@@ -82,10 +82,10 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#ff00ff"
+            "#b50000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ff00ff"
+            "#b50000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ff0000"
